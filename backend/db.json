@@ -1,0 +1,41 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Kopiko",
+            "price": "45",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        },
+        {
+            "id": 2,
+            "name": "Nescafe",
+            "price": "60",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        },
+        {
+            "id": 3,
+            "name": "SanMig",
+            "price": "75",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        },
+        {
+            "id": 4,
+            "name": "Great Taste",
+            "price": "65",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        },
+        {
+            "id": 5,
+            "name": "CoffeMate",
+            "price": "45",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        },
+        {
+            "id": 6,
+            "name": "Milo",
+            "price": "30",
+            "image": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-pearl-milk-tea-pearl-drink-transparent-png-image_6674261.png"
+        }
+    ]
+}
+

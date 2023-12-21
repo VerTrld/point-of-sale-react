@@ -1,0 +1,33 @@
+
+.navbar{
+  background-color: #8c7851;
+  font-family: 'Luxus Brush', cursive;
+
+
+}
+.navbar-brand{
+  color: #fffffe;
+  font-size: 30px;
+}
+.border{
+  border-radius: 6%;
+  cursor: pointer;
+}
+.product-name{
+  font-family: 'Luxus Brush', cursive;
+  color: #232946;
+}
+.receipt-info{
+  text-align: center;
+  font-family: 'Luxus Brush', cursive;
+}
+
+body{
+  background-color: #f9f4ef;
+}
+
+/* @media print {
+  @page {
+    size: 90mm 150mm;
+  }
+} */
