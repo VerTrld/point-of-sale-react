@@ -119,7 +119,7 @@ function POSPage() {
               <table className='table table-borderless table-responsive shadow-sm text-center'>
                 <thead>
                   <tr>
-                    <td>Name</td>
+                    <td>Product</td>
                     <td>Price</td>
                     <td>Qty</td>
                     <td>Total</td>
@@ -143,7 +143,7 @@ function POSPage() {
 
                 </tbody>
               </table>
-              <h3>Total Amount: {totalAmount ? (totalAmount === 0 ? ' ' : `₱${totalAmount}`) : ' '}</h3>
+              <h5 className='m-1'>Total Amount: {totalAmount ? (totalAmount === 0 ? ' ' : `₱${totalAmount}`) : ' '}</h5>
               <div className='mt-3'>
                 {totalAmount !== 0 ? <div>
                   <button className='btn btn-primary' onClick={handlePrint}>Pay Now</button>

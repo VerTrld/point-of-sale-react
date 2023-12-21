@@ -18,7 +18,7 @@ export const ComponentToPrint = React.forwardRef((props, ref) => {
         <thead>
           <tr>
             <td>Qty</td>
-            <td>Name</td>
+            <td>Product</td>
             <td>Price</td>
             <td>Total</td>
           </tr>

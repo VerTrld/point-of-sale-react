@@ -2,9 +2,8 @@
 .navbar{
   background-color: #8c7851;
   font-family: 'Luxus Brush', cursive;
-
-
 }
+
 .navbar-brand{
   color: #fffffe;
   font-size: 30px;
@@ -16,6 +15,9 @@
 .product-name{
   font-family: 'Luxus Brush', cursive;
   color: #232946;
+}
+.border:hover {
+  color: #ff6363; /* Change to the desired hover color */
 }
 .receipt-info{
   text-align: center;
